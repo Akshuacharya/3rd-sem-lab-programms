@@ -1,3 +1,6 @@
+A). FIRST COME FIRST SERVE:
+AIM: To write a c program to simulate the CPU scheduling algorithm First Come First Serve (FCFS)
+
 #include<stdio.h>
 #include<conio.h> 
 main()
