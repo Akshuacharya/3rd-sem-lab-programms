@@ -177,3 +177,6 @@ printf("\nThe RESULTANT string is:%s\n" ,ans);
 }
 }
 
+}
+}
+
